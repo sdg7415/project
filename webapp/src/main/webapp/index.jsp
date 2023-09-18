@@ -70,7 +70,7 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">browny</a>
+			                <a class="navbar-brand" href="index.html">SongDoJin Page</a>
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
 
@@ -105,7 +105,7 @@
 						<div class="header-text">
 							<h2>hi <span>,</span> i am <br> Dojin<br> Song<span>.</span>   </h2>
 							<p>Infra Engineer</p>
-							<a href="assets/download/browney.txt" download>download my information</a>
+							<a href="assets/download/browney.txt" download>download my info</a>
 						</div><!--/.header-text-->
 					</div><!--/.col-->
 				</div><!-- /.row-->
