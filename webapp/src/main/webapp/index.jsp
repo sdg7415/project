@@ -12,7 +12,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;subset=devanagari,latin-ext" rel="stylesheet">
         
         <!-- title of site -->
-        <title>Song Do Jin Page09:31</title>
+        <title>Song Do Jin Page</title>
 
         <!-- For favicon png -->
 		<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png"/>
@@ -70,7 +70,7 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">SongDoJin Page</a>
+			                <a class="navbar-brand" href="index.html">SongDoJin Page09:41</a>
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
 
