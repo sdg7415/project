@@ -70,7 +70,7 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">SongDoJin Page09:41</a>
+			                <a class="navbar-brand" href="index.html">SongDoJin Page09:44</a>
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
 
