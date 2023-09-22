@@ -127,19 +127,19 @@
 								<h3>
 									We are Professional Enginner 								</h3>
 								<p>
-									Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspi unde omnis iste natus error sit voluptatem accusantium doloremque lauda ntium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam vo luptatem quia voluptas sit aspernatur aut odit aut fugit,
+									We are Professional Enginner
 								</p>
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>phone</h3>
-											<p>987-123-6547</p>
+											<p>123-456-7890</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>email</h3>
-											<p>browny@info.com</p>
+											<p>4gl@4gl.com</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -208,8 +208,8 @@
 						<div class="col-sm-4">
 							<div class="single-horizontal-timeline">
 								<div class="experience-time">
-									<h2>2008 - 2010</h2>
-									<h3>master <span>of </span> computer science</h3>
+									<h2>2023.05 - 2023.06</h2>
+									<h3>Learn <span>network </span> protocol</h3>
 								</div><!--/.experience-time-->
 								<div class="timeline-horizontal-border">
 									<i class="fa fa-circle" aria-hidden="true"></i>
@@ -218,11 +218,11 @@
 								<div class="timeline">
 									<div class="timeline-content">
 										<h4 class="title">
-											university of north carolina
+											Learn Network Protocol
 										</h4>
-										<h5>north carolina, USA</h5>
+										<h5>Learn Network Protocol</h5>
 										<p class="description">
-											Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+											Learn Network Protocol
 										</p>
 									</div><!--/.timeline-content-->
 								</div><!--/.timeline-->
@@ -231,8 +231,8 @@
 						<div class="col-sm-4">
 							<div class="single-horizontal-timeline">
 								<div class="experience-time">
-									<h2>2004 - 2008</h2>
-									<h3>bachelor <span>of </span> computer science</h3>
+									<h2>2023.06 - 2023.07</h2>
+									<h3>Learn <span>Linux </span> and Windows</h3>
 								</div><!--/.experience-time-->
 								<div class="timeline-horizontal-border">
 									<i class="fa fa-circle" aria-hidden="true"></i>
@@ -241,11 +241,11 @@
 								<div class="timeline">
 									<div class="timeline-content">
 										<h4 class="title">
-											university of north carolina
+											Learn Linux and Windows
 										</h4>
-										<h5>north carolina, USA</h5>
+										<h5>Learn Linux and Windows</h5>
 										<p class="description">
-											Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+											Learn Linux and Windows
 										</p>
 									</div><!--/.timeline-content-->
 								</div><!--/.timeline-->
@@ -254,8 +254,8 @@
 						<div class="col-sm-4">
 							<div class="single-horizontal-timeline">
 								<div class="experience-time">
-									<h2>2004 - 2008</h2>
-									<h3>bachelor <span>of </span> creative design</h3>
+									<h2>2023.08 - 2023.09</h2>
+									<h3>Learn <span>AWS </span> and ansible</h3>
 								</div><!--/.experience-time-->
 								<div class="timeline-horizontal-border">
 									<i class="fa fa-circle" aria-hidden="true"></i>
@@ -265,11 +265,11 @@
 								<div class="timeline">
 									<div class="timeline-content">
 										<h4 class="title">
-											university of bolton
+											Learn AWS And Ansible
 										</h4>
-										<h5>bolton, united kingdome</h5>
+										<h5>Learn AWS And Ansiblee</h5>
 										<p class="description">
-											Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+											Learn AWS And Ansible
 										</p>
 									</div><!--/.timeline-content-->
 								</div><!--/.timeline-->
@@ -293,7 +293,7 @@
 							<div class="col-md-6">
 								<div class="single-skill-content">
 									<div class="barWrapper">
-										<span class="progressText">adobe photoshop</span>
+										<span class="progressText">AWS</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
@@ -304,7 +304,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">adobe illustrator</span>
+										<span class="progressText">Linux</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
@@ -315,7 +315,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">adobe after effects</span>
+										<span class="progressText">Network</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style="">
@@ -326,7 +326,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">sketch</span>
+										<span class="progressText">Kubernetes</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
@@ -341,7 +341,7 @@
 							<div class="col-md-6">
 								<div class="single-skill-content">
 									<div class="barWrapper">
-										<span class="progressText">html 5</span>
+										<span class="progressText">Ansible</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
@@ -352,7 +352,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">css 3 animation</span>
+										<span class="progressText">Docker</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
@@ -363,7 +363,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">communication</span>
+										<span class="progressText">Git</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style="">
@@ -374,7 +374,7 @@
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText"> creativity</span>
+										<span class="progressText">HTML 5</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
 											   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
