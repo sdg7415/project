@@ -70,7 +70,7 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">4gl Project Page1</a>
+			                <a class="navbar-brand" href="index.html">4gl Project Page</a>
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
 
@@ -103,7 +103,7 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span>,</span>We Are<br> 4gl<br> Team<span>.</span>   </h2>
+							<h2>hi <span>,</span>We Are<br> Team<br> 4GL<span>.</span>   </h2>
 							<p>Infra Engineer</p>
 							<a href="assets/download/4gl.txt" download>download Our info</a>
 						</div><!--/.header-text-->
